@@ -11,7 +11,7 @@
         <DataTemplate x:Key="whiteKing">
             <piece:WhiteKing />
         </DataTemplate>
-        <DataTemplate x:Key="whiteKnight">
+        <² x:Key="whiteKnight">
             <piece:WhiteKnight />
         </DataTemplate>
         <DataTemplate x:Key="whitePawn">
